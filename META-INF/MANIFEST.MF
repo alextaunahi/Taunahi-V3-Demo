@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+ModSide: CLIENT
+FMLCorePluginContainsFMLMod: true
+TweakClass: net.taunahi.autopatch.TaunahiTweaker
+ForceLoadAsMod: true
+Main-Class: 
+
